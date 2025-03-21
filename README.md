@@ -31,6 +31,6 @@ Use the model here to help classify positive tweets that we can then be used to 
 * project-4-presentation
 
 ### Link to Presentation
-![film-analysis-presentation.pdf](https://github.com/jaredlil/Phase_2_Project_Film/blob/main/film-analysis-presentation.pdf)
+[project-4-twitter-sentiment.pdf](https://github.com/jaredlil/project-4-twitter-sentiment/blob/main/project-4-twitter-sentiment.pdf)
 ### Link to Blog
 https://datasciencedigested.blogspot.com/2024/08/wasted-time-and-effort.html
